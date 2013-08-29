@@ -22,7 +22,7 @@ Domyślne opcje:
   MANPREFIX="$(PREFIX)/share"
   DESTDIR=""
 ```
-------------------------
+
        INSTALACJA
 ------------------------
 
@@ -32,7 +32,7 @@ Przykład:
 
 Patrz: OPCJE INSTALACYJNE..
 ```
-------------------------
+
       DEINSTALACJA
 ------------------------
 ```
