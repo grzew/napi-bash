@@ -14,7 +14,7 @@ W wersji oryginalnej program używał polecenia 7z przez co na Fedorze 19 wyświ
 ------------------------
 
 
-   OPCJE INSTALACYJNE
+OPCJE INSTALACYJNE
 ------------------------
 Domyślne opcje:
 ```
@@ -23,7 +23,7 @@ Domyślne opcje:
   DESTDIR=""
 ```
 
-       INSTALACJA
+INSTALACJA
 ------------------------
 
 ```
@@ -33,7 +33,7 @@ Przykład:
 Patrz: OPCJE INSTALACYJNE..
 ```
 
-      DEINSTALACJA
+DEINSTALACJA
 ------------------------
 ```
 Przykład:
