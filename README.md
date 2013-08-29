@@ -17,25 +17,27 @@ W wersji oryginalnej program używał polecenia 7z przez co na Fedorze 19 wyświ
    OPCJE INSTALACYJNE
 ------------------------
 Domyślne opcje:
-
+```
   PREFIX="/usr/local"
-
   MANPREFIX="$(PREFIX)/share"
-
   DESTDIR=""
-
+```
 ------------------------
        INSTALACJA
 ------------------------
+
+```
 Przykład:
   make install PREFIX=/usr
 
 Patrz: OPCJE INSTALACYJNE..
-
+```
 ------------------------
       DEINSTALACJA
 ------------------------
+```
 Przykład:
   make uninstall PREFIX=/usr
 
 Patrz: OPCJE INSTALACYJNE..
+```
